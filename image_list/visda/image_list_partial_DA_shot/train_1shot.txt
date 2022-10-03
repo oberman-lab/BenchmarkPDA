@@ -1,0 +1,6 @@
+train/aeroplane/src_1_02691156_2c16ac865f06542381598514fe928082__44_349_150.png 0
+train/bicycle/src_3_162__129_10_165.png 1
+train/bus/src_3_681__282_10_150.png 2
+train/car/src_1_02958343_4eeac6360031021b8141ca5f94f1242d__27_349_165.png 3
+train/horse/src_3_1511__282_236_150.png 4
+train/knife/src_2_03624134_ea2a14aa25e34566ed60d0c28bcebc7c__248_123_150.png 5
